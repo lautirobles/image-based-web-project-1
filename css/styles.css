@@ -1,4 +1,28 @@
 * {
     margin:0;
     padding:0;
+    background-color:#ced6f0;
+}
+
+.contenedor-padre{
+    text-align: center;
+    margin: 100px 50px;
+    border-radius:10px;
+    background-color: white;
+    
+}
+
+.servicio{
+    color: #426ae3;
+}
+
+.icono{
+    padding: 2px;
+    border: solid 2px #426ae3;
+    border-radius: 50%;
+}
+
+.titulo{
+    font-size: 30px;
+    color:#061652;
 }
