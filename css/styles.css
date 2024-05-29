@@ -7,8 +7,14 @@ body{
     background-color:#ced6f0;
 }
 
+main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 .ofrecemos{
-    margin: 100px 50px;
+    width: 80%;
     border-radius:10px;
     background-color: white;
 }
@@ -56,6 +62,7 @@ h3{
 
 .puntos{
     padding: 20px;
-    width: 25%;
+    width: 27%;
 }
 
+/* IMPORTANTE FALTA CENTRAR TODO  */
