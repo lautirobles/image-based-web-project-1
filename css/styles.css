@@ -1,10 +1,13 @@
 * {
     margin:0;
     padding:0;
+}
+
+body{
     background-color:#ced6f0;
 }
 
-.contenedor-padre{
+.ofrecemos{
     text-align: center;
     margin: 100px 50px;
     border-radius:10px;
@@ -26,3 +29,12 @@
     font-size: 30px;
     color:#061652;
 }
+
+.texto{
+    padding: 20px;
+}
+
+.puntos{
+    display: flex;
+}
+
