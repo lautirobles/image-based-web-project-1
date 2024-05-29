@@ -17,6 +17,8 @@ main{
     width: 80%;
     border-radius:10px;
     background-color: white;
+    padding: 40px;
+    margin: 40px auto;
 }
 
 .servicio{
@@ -64,5 +66,3 @@ h3{
     padding: 20px;
     width: 27%;
 }
-
-/* IMPORTANTE FALTA CENTRAR TODO  */
