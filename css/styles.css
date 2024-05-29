@@ -8,11 +8,9 @@ body{
 }
 
 .ofrecemos{
-    text-align: center;
     margin: 100px 50px;
     border-radius:10px;
     background-color: white;
-    
 }
 
 .servicio{
@@ -20,21 +18,44 @@ body{
 }
 
 .icono{
-    padding: 2px;
-    border: solid 2px #426ae3;
+    color: white;
+    padding: 8px;
     border-radius: 50%;
+    background-color: #426ae3;
+}
+
+h3{
+    margin: 20px 0px 10px 0px; 
+    color: #0d1f57;
 }
 
 .titulo{
     font-size: 30px;
     color:#061652;
+    padding: 15px;
+}
+
+.oracion{
+    color: #616161;
 }
 
 .texto{
     padding: 20px;
+    text-align: center;
+}
+
+.linea1{
+    display: flex;
+    justify-content: space-around;
+}
+
+.linea2{
+    display: flex;
+    justify-content: space-around;
 }
 
 .puntos{
-    display: flex;
+    padding: 20px;
+    width: 25%;
 }
 
